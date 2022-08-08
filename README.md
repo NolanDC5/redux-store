@@ -9,9 +9,6 @@ This project involved refactoring an e-commerce platform so that it uses Redux.
   
  Deployed via heroku at: 
 
-  # Table of Contents 
-  * [Installation](#-Installation)
-  * [Questions](#-Contact-Information)
       
   # Installation
    Clone the repo to your local development environment. 
