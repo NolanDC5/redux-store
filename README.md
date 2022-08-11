@@ -1,5 +1,9 @@
 # redux-store
  
+# Deployed Link
+https://redux-ndc.herokuapp.com/
+
+ 
 # Description
 This project involved refactoring an e-commerce platform so that it uses Redux.
   
