@@ -11,11 +11,9 @@ This project involved refactoring an e-commerce platform so that it uses Redux.
 
       
   # Installation
-   Clone the repo to your local development environment. 
+  Clone the repo 
   
-  `git clone https://github.com/Kadargo63/redux-store.git` 
-  
-  Navigate to the root folder directory using the command prompt.
+  Go to terminal
   
   Run `npm install` to install all dependencies.
   
